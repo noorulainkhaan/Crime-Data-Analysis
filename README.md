@@ -2,10 +2,10 @@
 This notebook is made to study the crime data of Chicago.
 We will attempt to observe different patterns in the data and mathe following analytical assessments:
 
-Single Class
+**Single Class**
 
-Model 1 - Logistic regression with Lasso-based feature selection
-Model 2 - Linear SVM
+**Model 1 -** Logistic regression with Lasso-based feature selection<br>
+**Model 2 -** Linear SVM
 Model 3 - Decision Trees
 Model 4 - Naive Bayes Model
 Model 5 - Random Forest
