@@ -1,5 +1,5 @@
 # Crime-Data-Analysis
-This notebook is made to study the crime data of Chicago.
+In order to run this notebook, Jupyter enviroment is required. It is coded in python language. This notebook is made to study the crime data of Chicago.
 We will attempt to observe different patterns in the data and mathe following analytical assessments:
 
 **Single Class**
