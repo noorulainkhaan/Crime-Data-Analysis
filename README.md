@@ -5,18 +5,20 @@ We will attempt to observe different patterns in the data and mathe following an
 **Single Class**
 
 **Model 1 -** Logistic regression with Lasso-based feature selection<br>
-**Model 2 -** Linear SVM
-Model 3 - Decision Trees
-Model 4 - Naive Bayes Model
-Model 5 - Random Forest
-Model 6 - KNN
-Multi Class Models
+**Model 2 -** Linear SVM<br>
+**Model 3 -** Decision Trees<br>
+**Model 4 -** Naive Bayes Model<br>
+**Model 5 -** Random Forest<br>
+**Model 6 -** KNN<br>
 
-Model 1 - Decision Trees for Multi Class
-Model 2 - Random Forest for Multi Class
-Model 3 - Logistic for Multi Class with Newton
-Model 4 - Logistic for Multi Class with lbfgs
-Other Models
+**Multi Class Models**
+
+**Model 1 -** Decision Trees for Multi Class<br>
+**Model 2 -** Random Forest for Multi Class<br>
+**Model 3 -** Logistic for Multi Class with Newton<br>
+**Model 4 -** Logistic for Multi Class with lbfgs<br>
+
+**Other Models**
 
 Principal Component Analysis
 Neural Networks
